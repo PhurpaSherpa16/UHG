@@ -1,0 +1,42 @@
+.container div #heading{
+	color: #f9ece8;
+	font-family: Impact;
+	font-size: 30px;
+
+}
+.container div #heading .hightlight{
+	color: orange;
+}
+
+.container div a #heading:hover{
+	color:orange;
+}
+
+div span #search{
+	color: #487ef2;
+}
+#mycart #Mycart{
+	color: white;
+	text-decoration: none;
+	font-size: 25px;
+	font-family: Georgia;
+	text-align: center;
+
+}
+.container #Mycart{
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+	font-family: Georgia;
+}
+#nav ul li a{
+	color: white;
+	text-decoration: none;
+	font-size: 15px;
+}
+
+#nav ul li a:hover{
+	color: black;
+	border:none;
+}
+
